@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_merchant_merchant_infos",
+  "info": {
+    "displayName": "merchantInfo",
+    "icon": "store"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "logo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "website": {
+      "type": "string"
+    },
+    "merchantId": {
+      "type": "string"
+    }
+  }
+}
