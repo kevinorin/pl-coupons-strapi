@@ -1,6 +1,6 @@
 # PrimeLab Coupons - Strapi
 
-End Points
+Example End Points
 1. Campains,Coupons = /api/campaigns/
 2. Users = /api/users/
 
